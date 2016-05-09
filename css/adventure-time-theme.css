@@ -1,0 +1,76 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+header{
+	background-color: #33394A;
+	width: 100%;
+	padding: 20px;
+	position: fixed;
+	z-index: 2;
+
+
+}
+
+body{
+	max-width: 1200px;
+	background-color: #EFEFEF;
+}
+
+
+aside{
+	position: fixed;
+	left: 0px;
+	z-index: 1;
+	height: 100%;
+	background-color: #33394A;
+	padding-top: 120px;
+	margin-left: 
+
+}
+
+.site-min-height{
+	padding-top: 100px;
+	padding-left: 190px;
+	
+
+}
+
+.btn.morado {
+	background-color: #89348B;
+}
+
+.main-content{
+	padding-left: 190px;
+	padding-top: 100px;
+	background-color: #EFEFEF;
+	margin-left: 210px;
+
+}
+
+
+.col-md-9{
+	background-color: #EFEFEF;
+}
+
+
+.mtbox {
+    margin-top: 80px;
+    margin-bottom: 40px;
+
+}
+
+
+
+
